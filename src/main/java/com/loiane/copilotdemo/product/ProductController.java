@@ -1,7 +1,7 @@
 package com.loiane.copilotdemo.product;
 
-import com.loiane.copilotdemo.model.Product;
-import com.loiane.copilotdemo.service.ProductService;
+import com.loiane.copilotdemo.product.Product;
+import com.loiane.copilotdemo.product.ProductService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
