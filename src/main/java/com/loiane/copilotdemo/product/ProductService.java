@@ -1,7 +1,7 @@
-package com.loiane.copilotdemo.service;
+package com.loiane.copilotdemo.product;
 
-import com.loiane.copilotdemo.model.Product;
-import com.loiane.copilotdemo.repository.ProductRepository;
+import com.loiane.copilotdemo.product.Product;
+import com.loiane.copilotdemo.product.ProductRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
