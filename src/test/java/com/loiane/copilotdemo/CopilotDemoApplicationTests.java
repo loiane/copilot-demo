@@ -18,8 +18,8 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.jsonPath;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
-import com.loiane.copilotdemo.model.Product;
-import com.loiane.copilotdemo.service.ProductService;
+import com.loiane.copilotdemo.product.Product;
+import com.loiane.copilotdemo.product.ProductService;
 
 @SpringBootTest
 @AutoConfigureMockMvc
