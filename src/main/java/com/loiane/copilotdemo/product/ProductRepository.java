@@ -1,4 +1,4 @@
-package com.loiane.copilotdemo.repository;
+package com.loiane.copilotdemo.product;
 
 import com.loiane.copilotdemo.model.Product;
 import org.springframework.data.jpa.repository.JpaRepository;

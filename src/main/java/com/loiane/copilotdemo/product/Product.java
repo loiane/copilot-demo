@@ -1,4 +1,4 @@
-package com.loiane.copilotdemo.model;
+package com.loiane.copilotdemo.product;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

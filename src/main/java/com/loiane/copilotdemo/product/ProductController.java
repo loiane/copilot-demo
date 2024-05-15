@@ -1,4 +1,4 @@
-package com.loiane.copilotdemo.controller;
+package com.loiane.copilotdemo.product;
 
 import com.loiane.copilotdemo.model.Product;
 import com.loiane.copilotdemo.service.ProductService;
